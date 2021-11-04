@@ -1,0 +1,7 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/SCC/SCC/App_Data/db_scc_log.ldf
+/SCC/SCC/App_Data/db_scc.mdf
+/SCC/SCC/App_Data/dbo.marca.sql
