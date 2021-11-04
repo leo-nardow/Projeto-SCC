@@ -51,9 +51,10 @@
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
-                        <li><a runat="server" href="~/">Página inicial</a></li>
-                        <li><a runat="server" href="~/About">Sobre</a></li>
-                        <li><a runat="server" href="~/Cadastro">Cadastro</a></li>
+                        <li><a runat="server" href="~/">Home</a></li>
+                        <li><a runat="server" href="~/CarroInfo">Cadastro de Carro</a></li>
+                        <li><a runat="server" href="~/MarcaInfo">Cadastro de Marca</a></li>
+                        
                     </ul>
                 </div>
             </div>
@@ -63,7 +64,7 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-                <p>&copy; <%: DateTime.Now.Year %> - Site desenvolvido por Leonardo Almeida</p>
+                <p style="text-align:center;">&copy; <%: DateTime.Now.Year %> - Site desenvolvido por Leonardo Almeida</p>
             </footer>
         </div>
 
