@@ -13,14 +13,6 @@ Projeto com o objetivo de criar um gerenciador de cadastro de carros com CRUD on
 ## Gif do CRUD
 ### 🚧 Em Breve 🚧
 
-## Banco de dados
-
-<p>Acessar o arquivo db_scc.sql para visualizar o passo a passo da criação do banco de dados</p>
-
-## Gif da Criação do Database
-### 🚧 Em Breve 🚧
-
-
 <h2>- Desenvolvido por: </h2>
 <table align="center" style="width: 200px;">
   <tr >
